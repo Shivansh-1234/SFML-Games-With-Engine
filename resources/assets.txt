@@ -1,0 +1,34 @@
+Texture   Texbrick           ../resources/textures/brick.png 
+Texture   TexTile            ../resources/textures/tile.png
+Texture   TexBlock           ../resources/textures/block.png
+Texture   TexBlock2          ../resources/textures/block2.png
+Texture   TexQuestiona       ../resources/textures/questiona.png
+Texture   TexQuestion        ../resources/textures/question.png
+Texture   TexPlayer          ../resources/textures/scarfy.png
+Texture   TexPlayerRun       ../resources/textures/scarfyrun.png
+Texture   TexPlayerJump      ../resources/textures/scarfyjump.png
+Texture   TexCloud           ../resources/textures/cloud.png
+Texture   TexPipeTall        ../resources/textures/pipetall.png
+Texture   TexBushBig         ../resources/textures/bushbig.png
+Texture   TexBullet          ../resources/textures/buster.png
+Texture   TexCoin            ../resources/textures/coin.png
+Texture   TexEnemy           ../resources/textures/enemy.png
+Texture   TexPole            ../resources/textures/pole.png
+Animation AnimBrick          Texbrick      1  0 
+Animation AnimBlock          TexBlock      1  0 
+Animation AnimBlock2         TexBlock2     1  0 
+Animation AnimQuestion       TexQuestion   1  0 
+Animation AnimQuestiona      TexQuestiona  3  10 
+Animation AnimPlayer         TexPlayer     1  0
+Animation AnimPlayerRun      TexPlayerRun  6  10
+Animation AnimPlayerJump     TexPlayerJump 1  0
+Animation AnimTile           TexTile       1  0
+Animation AnimCloud          TexCloud      1  0    
+Animation AnimPipeTall       TexPipeTall   1  0   
+Animation AnimBushBig        TexBushBig    1  0   
+Animation AnimBullet         TexBullet     1  0   
+Animation AnimCoin           TexCoin       6  10   
+Animation AnimEnemy          TexEnemy      1  0   
+Animation AnimPole           TexPole       1  0   
+Font      lkf                ../resources/fonts/arial.ttf  
+Font      megaman            ../resources/fonts/megaman.ttf  

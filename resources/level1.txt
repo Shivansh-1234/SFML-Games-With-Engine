@@ -1,0 +1,113 @@
+Tile         AnimBlock         0 0
+Tile         AnimBlock         1 0
+Tile         AnimBlock         2 0
+Tile         AnimBlock         3 0
+Tile         AnimBlock         4 0
+Tile         AnimBlock         5 0
+Tile         AnimBlock         6 0
+Tile         AnimBlock         7 0
+Tile         AnimBlock         8 0
+Tile         AnimBlock         9 0
+Tile         AnimBlock         10 0
+Tile         AnimBlock         11 0
+Tile         AnimBlock         12 0
+Tile         AnimBlock         13 0
+Tile         AnimBlock         14 0
+Tile         AnimBlock         15 0
+Tile         AnimBlock         16 0
+Tile         AnimBlock         17 0
+Tile         AnimBlock         18 0
+Tile         AnimBlock         19 0
+Tile         AnimBlock         20 0
+Tile         AnimBlock         21 0
+Tile         AnimBlock         22 0
+Tile         AnimBlock         23 0
+Tile         AnimBlock         24 0
+Tile         AnimBlock         25 0
+Tile         AnimBlock         26 0
+Tile         AnimBlock         27 0
+Tile         AnimBlock         28 0
+Tile         AnimBlock         31 0
+Tile         AnimBlock         32 0
+Tile         AnimBlock         33 0
+Tile         AnimBlock         34 0
+Tile         AnimBlock         35 0
+Tile         AnimBlock         36 0
+Tile         AnimBlock         37 0
+Tile         AnimBlock         38 0
+Tile         AnimBlock         39 0
+Tile         AnimBlock         40 0
+Tile         AnimBlock         41 0
+Tile         AnimBlock         42 0
+Tile         AnimBlock         43 0
+Tile         AnimBlock         44 0
+Tile         AnimBlock         45 0
+Tile         AnimBlock         46 0
+Tile         AnimBlock         47 0
+Tile         AnimBlock         48 0
+Tile         AnimBlock         49 0
+Tile         AnimBlock         50 0
+Tile         AnimBlock         51 0
+
+
+Tile         AnimBlock2        28 1
+Tile         AnimBlock2        28 2
+Tile         AnimBlock2        28 3
+Tile         AnimBlock2        27 1
+Tile         AnimBlock2        27 2
+Tile         AnimBlock2        26 1
+Tile         AnimBlock2        31 3
+Tile         AnimBlock2        31 2
+Tile         AnimBlock2        31 1
+Tile         AnimBlock2        32 2
+Tile         AnimBlock2        32 1
+Tile         AnimBlock2        33 1
+Tile         AnimBlock2        11 3
+Tile         AnimBlock2        43 3
+Tile         AnimBlock2        48 3
+
+Tile         AnimBrick         7  3
+Tile         AnimBrick         6  1
+Tile         AnimBrick         9  3
+Tile         AnimBrick         8  6
+Tile         AnimBrick         10 6
+Tile         AnimBrick         40 3
+Tile         AnimBrick         40 4
+Tile         AnimBrick         44 3
+Tile         AnimBrick         44 8
+
+Tile         AnimTile          40 1
+Tile         AnimTile          40 2
+Tile         AnimTile          40 5
+Tile         AnimTile          40 6
+
+Tile         AnimPipeTall      15 1
+Tile         AnimPole          51 1
+
+Tile         AnimQuestiona     10 3
+Tile         AnimQuestiona     9  6
+Tile         AnimQuestiona     8  3
+Tile         AnimQuestiona      44 3
+Tile         AnimQuestiona      47 3
+Tile         AnimQuestiona      45 3
+Tile         AnimQuestiona      45 8
+Tile         AnimQuestiona      46 3
+Tile         AnimQuestiona      46 8
+
+
+Decoration   AnimCloud         11 9  
+Decoration   AnimCloud         1  9  
+Decoration   AnimCloud         22 6  
+Decoration   AnimCloud         35 10 
+Decoration   AnimCloud         49 9
+Decoration   AnimBushBig       1  1   
+Decoration   AnimBushBig       20 1  
+
+Enemy        AnimEnemy         7  1
+Enemy        AnimEnemy         21 1d
+Enemy        AnimEnemy         35 1
+Enemy        AnimEnemy         49 1
+Enemy        AnimEnemy         34 1
+Enemy        AnimEnemy         42 1   
+
+Player 2 6 48 48 5 -20 20 0.75 AnimBullet
