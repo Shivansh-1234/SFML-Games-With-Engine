@@ -37,6 +37,8 @@ Soon!
 
 `$ git clone https://github.com/Shivansh-1234/SFML-Games-With-Engine `
 
+Just build and run, all dll and files are already in the repo
+
 Thank You 😄
 
 ![ScarfyMario](https://github.com/Shivansh-1234/SFML-Games-With-Engine/blob/master/img/img.PNG)
